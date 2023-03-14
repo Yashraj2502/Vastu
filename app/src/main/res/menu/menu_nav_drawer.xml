@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/map"
+        android:title="@string/view_on_map"
+        android:icon="@drawable/ic_map_24"
+        />
+
+    <item android:id="@+id/loanCalculator"
+        android:title="@string/loan_calculator"
+        android:icon="@drawable/ic_outline_calculate_24"
+        />
+
+    <item android:id="@+id/login"
+        android:title="@string/login"
+        android:icon="@drawable/ic_person_32"
+        />
+
+    <item android:id="@+id/logout"
+        android:title="Logout"
+        android:icon="@drawable/ic_person_32" />
+
+</menu>

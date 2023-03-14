@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "25182149709",
+    "project_id": "vastu-49d11",
+    "storage_bucket": "vastu-49d11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25182149709:android:de72a39535edaa188b9004",
+        "android_client_info": {
+          "package_name": "com.example.vastu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25182149709-5b73p4pn13arnvrdq37g41m6v6sgqfrd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5EKKAvd4J74Vj2jziJRFzGG0Zvd3puDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25182149709-5b73p4pn13arnvrdq37g41m6v6sgqfrd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
