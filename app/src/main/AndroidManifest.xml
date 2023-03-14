@@ -24,7 +24,12 @@
             android:exported="true" />
         <activity android:name="com.example.vastu.AdsFragment"
             android:exported="true"/>
-
+        <activity android:name=".Login"
+            android:exported="true" />
+        <activity android:name="com.example.vastu.ContactFragment"
+            android:exported="true" />
+        <activity android:name="com.example.vastu.ListAdapter"
+            android:exported="true" />
         <activity android:name="com.example.vastu.Register"
             android:exported="true">
             <intent-filter>
